@@ -26,7 +26,7 @@ def del_secret_msg_dir(msg_dir):
 
     answer = raw_input(
         "The secret_msg directory has been created. Do you want to keep it? (Y/N)")
-    if answer.lower() == "y":
+    if answer.lower() != "y":
         shutil.rmtree(msg_dir)
 
 
