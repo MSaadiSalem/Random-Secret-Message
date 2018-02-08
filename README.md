@@ -17,8 +17,9 @@ The program create a new directory "secret-msg" containing the new random messag
     3. Generate a random message.
     4. Create a "secret-msg".
     5. Copy letters into "secret-msg" in character sequence of the random message.
-    6. Check the OS platform, then open the file manager with the path that contains the message.
-    7. Ask the user to keep the message or delete it.
+    6. Rename the letter images in alphabet directory randomly.
+    7. Check the OS platform, then open the file manager with the path that contains the message.
+    8. Ask the user to keep the message or delete it.
 
 **If you please, I am waiting for your opinions.**
 
